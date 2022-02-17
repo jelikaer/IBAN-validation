@@ -16,7 +16,8 @@ This project consists only of backend part. Fronted written for this API locates
 3. run `mvn clean package`
 4. from target folder copy IBAN-validation jar file to the server 
 destination folder (remote or local);
-5. execute the command 
+5. execute the command:
+ 
 `java -jar IBAN-validation-<file-version>.jar com.luminor.task.ibanvalidation.IbanValidationApplication`
 
 ### Some comments
