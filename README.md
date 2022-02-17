@@ -19,7 +19,9 @@ This project consists only of backend part. Fronted written for this API locates
 destination folder (remote or local);
 5. execute the command `java -jar IBAN-validation-<file-version>.jar com.luminor.task.ibanvalidation.IbanValidationApplication`
 
-### Project components description
+### Some comments
 This is backend part of IBAN VALIDATION REST API. UI part might be found at `https://github.com/jelikaer/IBAN-validation-ui.git`.
-These two parts are physically separated and are interacting through the server(?).
+These two parts are physically separated and are interacting through the enpoint(?). The main reason of this solution is author' insufficient experience with Tomcat.
+But this approach also gives an opportunity for separately work on different devices (server and user' PC).
+
 
