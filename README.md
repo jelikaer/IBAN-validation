@@ -8,7 +8,6 @@ This project consists only of backend part. Fronted written for this API locates
 * Java 11
 * Maven 3.8.4
 * Git 2.32.0
-* Node JS 17.5.0 (UI part)
 
 ### Backend installation and running guide
 1. Clone repository using Git (here will be repository address)
