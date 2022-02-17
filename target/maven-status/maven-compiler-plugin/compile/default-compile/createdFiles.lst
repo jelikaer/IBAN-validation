@@ -1,6 +1,0 @@
-com/luminor/task/ibanvalidation/IbanValidationApplication.class
-com/luminor/task/ibanvalidation/ServletInitializer.class
-com/luminor/task/ibanvalidation/service/IbanValidationService.class
-com/luminor/task/ibanvalidation/api/IbanState.class
-com/luminor/task/ibanvalidation/controller/IbanValidationController.class
-com/luminor/task/ibanvalidation/api/State.class
