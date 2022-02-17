@@ -12,7 +12,7 @@ This project consists only of backend part. Fronted written for this API locates
 ### Backend installation and running guide
 1. Clone repository using Git (here will be repository address)
    `git clone https://github.com/jelikaer/IBAN-validation.git`
-2. go to clone repository
+2. go to cloned repository location with name "IBAN-validation"
 3. run `mvn clean package`
 4. from target folder copy IBAN-validation jar file to the server 
 destination folder (remote or local);
